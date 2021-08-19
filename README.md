@@ -1,9 +1,9 @@
 # EGRCNN
-Edge-guided Recurrent Convolutional Neural Network for Multi-temporal Remote Sensing Image Building Change Detection
+***Edge-guided Recurrent Convolutional Neural Network for Multi-temporal Remote Sensing Image Building Change Detection***
 ![net](https://github.com/luting-hnu/EGRCNN/blob/main/figure/net.png)
 ## Edge extraction
 ```bash
-change_dataset_np.py
+generate edges.py
 ```
 ## Datasets
 Download the building change detection dataset
