@@ -6,8 +6,12 @@ Edge-guided Recurrent Convolutional Neural Network for Multi-temporal Remote Sen
 change_dataset_np.py
 ```
 ## Datasets
+Download the building change detection dataset
+- LEVIR-CD: https://justchenhao.github.io/LEVIR/
+- WHU: https://study.rsgis.whu.edu.cn/pages/download/
+## Directory structure
 ```
-path to LEVIR-CD/WHU dataset:
+path to dataset:
                 ├─train
                 │  ├─A
                 │  ├─B
