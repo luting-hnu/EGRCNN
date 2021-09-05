@@ -2,10 +2,7 @@
 This repository provides the code for the methods and experiments presented in our paper '**Edge-guided Recurrent Convolutional Neural Network for Multi-temporal Remote Sensing Image Building Change Detection**'.
 You can find the PDF of this paper on: https://ieeexplore.ieee.org/document/9524849
 ![net](https://github.com/luting-hnu/EGRCNN/blob/main/figure/net.png)
-## Edge extraction
-```bash
-generate edges.py
-```
+
 ## Datasets
 Download the building change detection dataset
 - LEVIR-CD: https://justchenhao.github.io/LEVIR/
@@ -29,6 +26,11 @@ path to dataset:
                 │  ├─label
                 │  ├─label_edge
 ```
+## Edge extraction
+```bash
+generate edges.py
+```
+
 ## Train
 ```bash
 train.py
