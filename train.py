@@ -42,8 +42,8 @@ batch_size *= num_gpu
 base_lr *= num_gpu
 print('Number of GPUs Available:', num_gpu)
 
-train_pickle_file = '/home/luting/桌面/Bai/CD/dataset/train'
-val_pickle_file = '/home/luting/桌面/Bai/CD/dataset/train'
+train_pickle_file = '/home/luting/桌面/Bai/CD/dataset/train' #Path to training set
+val_pickle_file = '/home/luting/桌面/Bai/CD/dataset/val' #Path to validation set
 data_transforms = {
     'train': transforms.Compose([
         transforms.Resize(img_size),
