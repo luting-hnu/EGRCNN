@@ -1,7 +1,9 @@
 # EGRCNN
 This repository provides the code for the methods and experiments presented in our paper '**Edge-guided Recurrent Convolutional Neural Network for Multi-temporal Remote Sensing Image Building Change Detection**'.
 You can find the PDF of this paper on: https://ieeexplore.ieee.org/document/9524849
+
 ![net](https://github.com/luting-hnu/EGRCNN/blob/main/figure/net.png)
+
 **If you have any questions, you can send me an email. My mail address is baibeifang@gmail.com.**
 
 ## Datasets
