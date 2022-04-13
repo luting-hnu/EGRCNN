@@ -48,6 +48,5 @@ test.py
 ## Citation
 If you find this paper useful, please cite:
 ```bash
-Beifang Bai, Wei Fu, Ting Lu, and Shutao Li, "Edge-Guided Recurrent Convolutional Neural Network for Multitemporal Remote Sensing Image Building Change Detection
-," in IEEE Transactions on Geoscience and Remote Sensing, Early Access,  August 2021, doi: 10.1109/TGRS.2021.3106697.
+Beifang Bai, Wei Fu, Ting Lu, and Shutao Li, "Edge-Guided Recurrent Convolutional Neural Network for Multitemporal Remote Sensing Image Building Change Detection," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-13, 2022, Art no. 5610613, doi: 10.1109/TGRS.2021.3106697.
 ```
