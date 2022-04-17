@@ -7,27 +7,29 @@ You can find the PDF of this paper on: https://ieeexplore.ieee.org/document/9524
 **If you have any questions, you can send me an email. My mail address is baibeifang@gmail.com.**
 
 ## Datasets
-Download the building change detection dataset
+Download the building change detection dataset. 
 - LEVIR-CD: https://justchenhao.github.io/LEVIR/
 - WHU: https://study.rsgis.whu.edu.cn/pages/download/
+
+In the following experiments, each image in the dataset is pre-cropped into multiple image patches of size 256 × 256.
 ## Directory structure
 ```
 path to dataset:
                 ├─train
-                │  ├─A
-                │  ├─B
-                │  ├─label
-                │  ├─label_edge
+                  ├─A
+                  ├─B
+                  ├─label
+                  ├─label_edge
                 ├─val
-                │  ├─A
-                │  ├─B
-                │  ├─label
-                │  ├─label_edge
+                  ├─A
+                  ├─B
+                  ├─label
+                  ├─label_edge
                 ├─test
-                │  ├─A
-                │  ├─B
-                │  ├─label
-                │  ├─label_edge
+                  ├─A
+                  ├─B
+                  ├─label
+                  ├─label_edge
 ```
 ## Edge extraction
 ```bash
