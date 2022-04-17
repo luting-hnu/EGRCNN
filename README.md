@@ -41,7 +41,7 @@ generate edges.py
 train.py
 ```
 ## Test
-You can train your own model or download our [pre-trained model](https://drive.google.com/file/d/1WhhCof1bfq1JCyHtsgmirGzW6tY0996x/view)
+You can use your own trained model or download our [pre-trained model](https://drive.google.com/file/d/1WhhCof1bfq1JCyHtsgmirGzW6tY0996x/view)
 
 ```bash
 test.py
